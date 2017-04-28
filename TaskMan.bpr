@@ -6,6 +6,8 @@
     <PROJECT value="TaskMan.exe"/>
     <OBJFILES value="TaskMan.obj untMain.obj GlobalFuncs.obj"/>
     <RESFILES value="TaskMan.res"/>
+    <IDLFILES value=""/>
+    <IDLGENFILES value=""/>
     <DEFFILE value=""/>
     <RESDEPEN value="$(RESFILES) untMain.dfm"/>
     <LIBFILES value=""/>
